@@ -9,7 +9,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import com.alansolisflores.mvp.R;
 import com.alansolisflores.mvp.helpers.Constants;
-import com.alansolisflores.mvp.Contracts.PersonContract;
+import com.alansolisflores.mvp.contracts.PersonContract;
 import com.alansolisflores.mvp.presenters.PersonPresenter;
 
 public class PersonActivity extends AppCompatActivity implements PersonContract.View,

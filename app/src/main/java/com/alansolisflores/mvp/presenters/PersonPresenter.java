@@ -1,6 +1,6 @@
 package com.alansolisflores.mvp.presenters;
 
-import com.alansolisflores.mvp.Contracts.PersonContract;
+import com.alansolisflores.mvp.contracts.PersonContract;
 import com.alansolisflores.mvp.helpers.Constants;
 import com.alansolisflores.mvp.models.Person;
 import java.util.ArrayList;

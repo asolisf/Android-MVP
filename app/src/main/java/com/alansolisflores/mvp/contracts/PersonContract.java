@@ -1,4 +1,4 @@
-package com.alansolisflores.mvp.Contracts;
+package com.alansolisflores.mvp.contracts;
 
 public interface PersonContract {
 
